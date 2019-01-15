@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#1de9e2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+
+
+
+
+
+        <Button
+            android:id="@+id/loginButtonId"
+
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+
+            />
+
+        <Button
+        android:id="@+id/signupButtonId"
+
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Sign up"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/welkung"
+        android:scaleType="fitXY"
+
+
+        />
+
+
+
+
+    <Button
+        android:id="@+id/mainId"
+        android:layout_marginLeft="130dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="MainPage"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+
+
+
+
+
+    <Button
+        android:id="@+id/purchaceId"
+        android:layout_marginLeft="130dp"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="Make a Purchace"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+
+        />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">kungfuPanda</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="computer">Dell Inspiron 15-3552 Intel CDC N3060 (1.60GHz, 4GB, 500GB) 15.6 Inch HD (1366X768) Display, Black Notebook (2 Yr Warranty) #IRIS15BSW17030</string>
+    08
+    <string name="GPU">Gigabyte GA-X399 AORUS Gaming 7 DDR4 TR4 Socket (For AMD Ryzen Threadripper) Mainboard</string>
+
+    <string name="RAM">G.Skill Trident Z RGB 16GB DDR4 3200MHz Desktop RAM #C15D-32GTZR</string>
+
+    <string name="hardDisk">Brand: Toshiba,
+                            Product Code: Toshiba 1 TB Laptop Hard Disk,
+                            Availability: In Stock,
+                            Highlights,
+                            Capacity:1TB,
+                            Interface: Serial ATA,
+                            Rotational Speed:5400 RPM,
+                            Form factor: 2.5 inch
+
+    </string>
+
+    <string name="pendrive">Brand: Sandisk
+                            Product Code: San Disk Ultra Dual Drive m3.0 Type-C 16 GB Pen Drive
+                            Availability: In Stock
+                            Highlights
+                            Capacity: 16 GB
+                            Read Speed up to 130 MB/s
+                            USB 3.1 Type-C ,Type-A (Gen-1)
+
+    </string>
+
+
+    <string name="cpu">Intel Core i7-8700K Desktop Processor 6 Cores up to 4.7GHz Turbo Unlocked LGA1151 300 Series 95W</string>
+
+
+</resources>
